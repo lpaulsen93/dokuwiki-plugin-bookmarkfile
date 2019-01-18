@@ -1,0 +1,7 @@
+base   bookmarkfile
+author Ekkart Kleinod, LarsDW223
+email  -
+date   2019-01-18
+name   Bookmarkfile Plugin
+desc   Convert a bookmark file into a hierarchic link list
+url    https://www.dokuwiki.org/plugin:bookmarkfile

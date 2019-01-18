@@ -1,0 +1,12 @@
+.dokuwiki .bookmarkfile li.separator {
+    list-style-type: none;
+}
+
+.dokuwiki .bookmarkfile .separator hr {
+    margin: 0.25em 0;
+    padding: 0;
+    border-top: dotted @ini_border;
+    border-bottom: dotted @ini_background;
+    border-width: 2px 0;
+    height: 0;
+}
